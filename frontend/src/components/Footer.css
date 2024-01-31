@@ -1,0 +1,10 @@
+.Footer {
+    width: 100%;
+    height: 50px;
+    background-color: #242424;
+    color: #fff;
+}
+.Footer p {
+    line-height: 50px;
+    font-size: 14px;
+}
